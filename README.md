@@ -7,10 +7,12 @@ This is new project template
 
 Passwords in .env:
 
+```
 MYSQL_DATABASE=db_django
 MYSQL_USER=web_django
 MYSQL_PASSWORD=password
 MYSQL_ROOT_PASSWORD=password
+```
 
 ## Restore MySQL premissions
 
