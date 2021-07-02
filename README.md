@@ -26,8 +26,9 @@ flush privileges;
 
 ## Scripts
 ```
-1-build.sh        - build container
-2-up.sh           - run container
+0-build.sh        - build container
+1-run.sh          - run container
+2-up.sh           - run container (up)
 3-rebuild.sh      - rebuild container
 4-migrate-db.sh   - migrate Django DB
 5-mysql-shell.sh  - MySqql interactive root shell
