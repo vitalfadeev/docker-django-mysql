@@ -26,7 +26,7 @@ flush privileges;
 
 ## Scripts
 ```
-0-build.sh        - build container
+0-init.sh         - build container
 1-run.sh          - run container
 2-up.sh           - run container (up)
 3-rebuild.sh      - rebuild container
