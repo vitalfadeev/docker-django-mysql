@@ -18,6 +18,11 @@ MYSQL_ROOT_PASSWORD=password
 
 db_access,sql
 
+```
+grant all on db_django.* to 'web_django'@'%';
+flush privileges;
+```
+
 
 ## Scripts
 ```
